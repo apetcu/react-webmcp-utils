@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "description": "React 18+ hooks for the W3C WebMCP (navigator.modelContext) polyfill",
   "homepage": "https://github.com/apetcu/react-webmcp-utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apetcu/react-webmcp-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apetcu/react-webmcp-utils/issues"
+  },
   "publishConfig": {
     "access": "public"
   },
